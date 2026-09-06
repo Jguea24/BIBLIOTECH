@@ -1,0 +1,6 @@
+{
+  "name": "BiblioTech - Sistema de Gestión de Biblioteca Digital",
+  "description": "Especificación arquitectónica, diseño de base de datos relacional y estructura de software en 3 capas con Laravel y MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
